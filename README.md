@@ -1,0 +1,4 @@
+funny
+=====
+
+vbscript funny
